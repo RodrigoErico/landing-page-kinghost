@@ -6,6 +6,6 @@
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
-[Acessar](https://rodrigoerico.github.io/landing-page-kinghost/public/index.html)
+[Acessar site](https://rodrigoerico.github.io/landing-page-kinghost/public/index.html)
 
 ![image](https://user-images.githubusercontent.com/54871018/221454683-02933d10-9a4c-4639-a197-e9431c935c39.png)
